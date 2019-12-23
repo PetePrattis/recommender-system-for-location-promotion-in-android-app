@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "894264305491",
+    "firebase_url": "https://kastropoliteies-ed03f.firebaseio.com",
+    "project_id": "kastropoliteies-ed03f",
+    "storage_bucket": "kastropoliteies-ed03f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894264305491:android:a88759bec68198ec2363a6",
+        "android_client_info": {
+          "package_name": "com.unipi.cs.p15013p15120.kastropoliteies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894264305491-u4rr1b3mefaqk2mr3g3qk84a1gj85a3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unipi.cs.p15013p15120.kastropoliteies",
+            "certificate_hash": "496ce067cae3b27ef214f98cf0109f273a3a10ae"
+          }
+        },
+        {
+          "client_id": "894264305491-2hgvfhruqtnmsp6f9sefcbmdt97n8lpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVdrBIM-OSGc8p_qPxjWLsRYvzP5F2Zc"
+        },
+        {
+          "current_key": "AIzaSyDEMvfGpBu52gpaQOfElgQJUzczcjmgljg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894264305491-5cldt5gu98gsj3p5hi8rdhof1e5lofeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894264305491:android:4dab7070c2df3919",
+        "android_client_info": {
+          "package_name": "com.unipi.p15013p15120.kastropoliteies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894264305491-2hgvfhruqtnmsp6f9sefcbmdt97n8lpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVdrBIM-OSGc8p_qPxjWLsRYvzP5F2Zc"
+        },
+        {
+          "current_key": "AIzaSyDEMvfGpBu52gpaQOfElgQJUzczcjmgljg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894264305491-5cldt5gu98gsj3p5hi8rdhof1e5lofeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894264305491:android:c4c6969616cc167e",
+        "android_client_info": {
+          "package_name": "com.unipi.p15013p15120.kastropoliteiesv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894264305491-2hgvfhruqtnmsp6f9sefcbmdt97n8lpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVdrBIM-OSGc8p_qPxjWLsRYvzP5F2Zc"
+        },
+        {
+          "current_key": "AIzaSyDEMvfGpBu52gpaQOfElgQJUzczcjmgljg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894264305491-5cldt5gu98gsj3p5hi8rdhof1e5lofeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894264305491:android:cae180788245b8a7",
+        "android_client_info": {
+          "package_name": "com.unipi.p15120.kastropoliteiesbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894264305491-rl4k60o244nmq21jmpqaa572h0mmfn6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unipi.p15120.kastropoliteiesbeta",
+            "certificate_hash": "496ce067cae3b27ef214f98cf0109f273a3a10ae"
+          }
+        },
+        {
+          "client_id": "894264305491-2hgvfhruqtnmsp6f9sefcbmdt97n8lpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVdrBIM-OSGc8p_qPxjWLsRYvzP5F2Zc"
+        },
+        {
+          "current_key": "AIzaSyDEMvfGpBu52gpaQOfElgQJUzczcjmgljg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894264305491-5cldt5gu98gsj3p5hi8rdhof1e5lofeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
