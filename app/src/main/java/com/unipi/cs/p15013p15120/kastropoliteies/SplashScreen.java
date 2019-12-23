@@ -34,7 +34,7 @@ if user does not have an account we prompt him to the login and sign up page
 if user has an account we check if he has answered his initial questionnaire
 if user has answered the questionnaire we prompt him to home page activity
 else we prompt him to questionnaire activity to answer his questionnaire
-*/
+ */
 public class SplashScreen extends AppCompatActivity {
     private static final String TAG = "SplashScreen";
 
